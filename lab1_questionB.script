@@ -1,0 +1,12 @@
+Script started on Sun 12 Mar 2017 08:55:53 PM CST
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m ./a.outg++ A.cppit clone https://github.com/TingL77/lab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m [C++ A.cpp[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m g++ A.cpp[2P./a.outg++ A.cppit clone https://github.com/TingL77/lab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m [C[C[C[C[Config -l[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clone https://github.com/TingL77/lab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m [C++ A.cpp[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2P./a.out
+Input integer:22
+Corresponding sequence of numbers:
+22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1 
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m exit
+
+Script done on Sun 12 Mar 2017 08:56:14 PM CST
