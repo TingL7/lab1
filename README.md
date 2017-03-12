@@ -1,1 +1,10 @@
-# lab1
+Question B
+------
+
+Compile A.cpp:
+
+  `g++ A.cpp`
+
+Excution:
+
+  `./a.out`
